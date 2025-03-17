@@ -1,3 +1,5 @@
+//Suggests and filters movies based on minimum ratings and preferred genre
+
 import Foundation
 
 enum Genre {
